@@ -1,5 +1,5 @@
 - Hi, I’m Akshit Naithani
-- I usually code in different languages like Python, C++ and R
+- I code in different languages like Python, C++ and R
 - I’m currently in the middle of pursuing my B.Tech degree in Computer Engineering
 - I have put some of my projects and programs which I made over the years
 - My Linkedin profile 
